@@ -35,12 +35,12 @@ These findings would help Daikibo's operations team prioritize maintenance sched
 
 ### Dashboard Preview
 
-![Dashboard overview](images/dashboard-overview.png)
+![Dashboard overview](dashboard-overview.png)
 
 <table>
 <tr>
-<td><img src="images/downtime-per-factory.png" alt="Down time per factory" width="380"/></td>
-<td><img src="images/downtime-per-device-type.png" alt="Down time per device type" width="380"/></td>
+<td><img src="downtime-per-factory.png" alt="Down time per factory" width="380"/></td>
+<td><img src="downtime-per-device-type.png" alt="Down time per device type" width="380"/></td>
 </tr>
 <tr>
 <td align="center"><em>Down Time per Factory</em></td>
