@@ -63,7 +63,7 @@ These findings would help Daikibo's operations team prioritize maintenance sched
 **Goal:** Support an internal investigation into potential unfair pay practices at Daikibo by classifying pay equality scores across factories and job roles in Excel.
 
 ### The Data
-The workbook (`data/Task_5_Equality_Table_by_AISHA_O_INUWA.xlsx`) contains an **Equality Score** for every Job Role at each of Daikibo's four sites — **Daikibo Factory Meiyo, Daikibo Factory Seiko, Daikibo Berlin, and Daikibo Shenzhen** — covering 37 role/factory combinations from C-Level down to Machine Operator. The Equality Score measures how far a role's pay deviates from a fair benchmark (positive or negative).
+The workbook (**[view the full table directly on GitHub →](data/Task_5_Equality_Table_by_AISHA_O_INUWA.xlsx)**, opens an in-browser preview — no download needed) contains an **Equality Score** for every Job Role at each of Daikibo's four sites — **Daikibo Factory Meiyo, Daikibo Factory Seiko, Daikibo Berlin, and Daikibo Shenzhen** — covering 37 role/factory combinations from C-Level down to Machine Operator. The Equality Score measures how far a role's pay deviates from a fair benchmark (positive or negative).
 
 ### What I Did
 I added an **Equality Class** column and used a nested `IF` formula to automatically classify every row based on the size of its Equality Score, regardless of sign:
